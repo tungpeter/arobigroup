@@ -1,3 +1,1 @@
-document.write('<marquee height="200" direction="UP" scrolldelay="5" scrollamount="5" onmouseover="this.stop()" onmouseout="this.start()"> <center>
-
-</center></marquee>')
+document.write('<marquee height="200" direction="UP" scrolldelay="5" scrollamount="5" onmouseover="this.stop()" onmouseout="this.start()"><center><ul><li><a href="https://arobimart.com/shop/vestbienhoa" target="_blank" title="Vsst biên hòa">Vsst biên hòa</a></li></ul></center></marquee>')
